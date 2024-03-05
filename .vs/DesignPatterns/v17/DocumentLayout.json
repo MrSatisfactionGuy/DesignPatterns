@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{104BF6C6-3102-4683-8319-EB52031EBCED}|Singleton\\Singleton.csproj|c:\\users\\eduard\\desktop\\entwicklung\\designpatterns\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{104BF6C6-3102-4683-8319-EB52031EBCED}|Singleton\\Singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{104BF6C6-3102-4683-8319-EB52031EBCED}|Singleton\\01_Singleton.csproj|c:\\users\\eduard\\desktop\\entwicklung\\designpatterns\\singleton\\01_singleton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{104BF6C6-3102-4683-8319-EB52031EBCED}|Singleton\\01_Singleton.csproj|solutionrelative:singleton\\01_singleton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{104BF6C6-3102-4683-8319-EB52031EBCED}|Singleton\\Singleton.csproj|c:\\users\\eduard\\desktop\\entwicklung\\designpatterns\\singleton\\context\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{104BF6C6-3102-4683-8319-EB52031EBCED}|Singleton\\Singleton.csproj|solutionrelative:singleton\\context\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CDAD8CA-6C30-4219-B086-FEB71A4DA996}|Observer\\Observer.csproj|c:\\users\\eduard\\desktop\\entwicklung\\designpatterns\\observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDAD8CA-6C30-4219-B086-FEB71A4DA996}|Observer\\Observer.csproj|solutionrelative:observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A08F4E-B2DC-473A-9C8D-A6C986C2B404}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\eduard\\desktop\\entwicklung\\designpatterns\\designpatterns\\usercontext.cs\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A08F4E-B2DC-473A-9C8D-A6C986C2B404}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\usercontext.cs\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CDAD8CA-6C30-4219-B086-FEB71A4DA996}|Observer\\Observer.csproj|c:\\users\\eduard\\desktop\\entwicklung\\designpatterns\\observer\\classes\\temperaturesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDAD8CA-6C30-4219-B086-FEB71A4DA996}|Observer\\Observer.csproj|solutionrelative:observer\\classes\\temperaturesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A08F4E-B2DC-473A-9C8D-A6C986C2B404}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\eduard\\desktop\\entwicklung\\designpatterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A08F4E-B2DC-473A-9C8D-A6C986C2B404}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CDAD8CA-6C30-4219-B086-FEB71A4DA996}|Observer\\Observer.csproj|c:\\users\\eduard\\desktop\\entwicklung\\designpatterns\\observer\\classes\\displayobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDAD8CA-6C30-4219-B086-FEB71A4DA996}|Observer\\Observer.csproj|solutionrelative:observer\\classes\\displayobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{104BF6C6-3102-4683-8319-EB52031EBCED}|Singleton\\Singleton.csproj|c:\\users\\eduard\\desktop\\entwicklung\\designpatterns\\singleton\\singleton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{104BF6C6-3102-4683-8319-EB52031EBCED}|Singleton\\Singleton.csproj|solutionrelative:singleton\\singleton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8CDAD8CA-6C30-4219-B086-FEB71A4DA996}|Observer\\Observer.csproj|c:\\users\\eduard\\desktop\\entwicklung\\designpatterns\\observer\\classes\\notificationobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDAD8CA-6C30-4219-B086-FEB71A4DA996}|Observer\\Observer.csproj|solutionrelative:observer\\classes\\notificationobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A08F4E-B2DC-473A-9C8D-A6C986C2B404}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\eduard\\desktop\\entwicklung\\designpatterns\\designpatterns\\designpatterns.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B4A08F4E-B2DC-473A-9C8D-A6C986C2B404}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\designpatterns.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4A08F4E-B2DC-473A-9C8D-A6C986C2B404}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\eduard\\desktop\\entwicklung\\designpatterns\\designpatterns\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B4A08F4E-B2DC-473A-9C8D-A6C986C2B404}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8CDAD8CA-6C30-4219-B086-FEB71A4DA996}|Observer\\Observer.csproj|c:\\users\\eduard\\desktop\\entwicklung\\designpatterns\\observer\\interface\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDAD8CA-6C30-4219-B086-FEB71A4DA996}|Observer\\Observer.csproj|solutionrelative:observer\\interface\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,101 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserContext.cs",
-              "DocumentMoniker": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Singleton\\Context\\UserContext.cs",
-              "RelativeDocumentMoniker": "Singleton\\Context\\UserContext.cs",
-              "ToolTip": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Singleton\\Context\\UserContext.cs",
-              "RelativeToolTip": "Singleton\\Context\\UserContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "DocumentIndex": 5,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Observer\\Interface\\IObserver.cs",
+              "RelativeDocumentMoniker": "Observer\\Interface\\IObserver.cs",
+              "ToolTip": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Observer\\Interface\\IObserver.cs",
+              "RelativeToolTip": "Observer\\Interface\\IObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T18:06:48.796Z",
+              "WhenOpened": "2024-03-05T19:54:52.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Singleton",
-              "DocumentMoniker": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Singleton\\Singleton.csproj",
-              "RelativeDocumentMoniker": "Singleton\\Singleton.csproj",
-              "ToolTip": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Singleton\\Singleton.csproj",
-              "RelativeToolTip": "Singleton\\Singleton.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-04T18:06:29.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Singleton\\Program.cs",
-              "RelativeDocumentMoniker": "Singleton\\Program.cs",
-              "ToolTip": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Singleton\\Program.cs",
-              "RelativeToolTip": "Singleton\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Title": "NotificationObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Observer\\Classes\\NotificationObserver.cs",
+              "RelativeDocumentMoniker": "Observer\\Classes\\NotificationObserver.cs",
+              "ToolTip": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Observer\\Classes\\NotificationObserver.cs",
+              "RelativeToolTip": "Observer\\Classes\\NotificationObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T18:06:23.006Z",
+              "WhenOpened": "2024-03-05T19:44:57.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\DesignPatterns\\Program.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
-              "ToolTip": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\DesignPatterns\\Program.cs",
-              "RelativeToolTip": "DesignPatterns\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABDAAAA",
+              "Title": "DisplayObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Observer\\Classes\\DisplayObserver.cs",
+              "RelativeDocumentMoniker": "Observer\\Classes\\DisplayObserver.cs",
+              "ToolTip": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Observer\\Classes\\DisplayObserver.cs",
+              "RelativeToolTip": "Observer\\Classes\\DisplayObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T17:59:06.869Z",
+              "WhenOpened": "2024-03-05T19:44:44.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserContext.cs",
-              "DocumentMoniker": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\DesignPatterns\\UserContext.cs\\UserContext.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\UserContext.cs\\UserContext.cs",
-              "ToolTip": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\DesignPatterns\\UserContext.cs\\UserContext.cs",
-              "RelativeToolTip": "DesignPatterns\\UserContext.cs\\UserContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABKAAAA",
+              "Title": "TemperatureSubject.cs",
+              "DocumentMoniker": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Observer\\Classes\\TemperatureSubject.cs",
+              "RelativeDocumentMoniker": "Observer\\Classes\\TemperatureSubject.cs",
+              "ToolTip": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Observer\\Classes\\TemperatureSubject.cs",
+              "RelativeToolTip": "Observer\\Classes\\TemperatureSubject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T17:53:50.265Z",
+              "WhenOpened": "2024-03-05T19:44:29.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DesignPatterns",
-              "DocumentMoniker": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
-              "RelativeDocumentMoniker": "DesignPatterns\\DesignPatterns.csproj",
-              "ToolTip": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
-              "RelativeToolTip": "DesignPatterns\\DesignPatterns.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Observer\\Program.cs",
+              "RelativeDocumentMoniker": "Observer\\Program.cs",
+              "ToolTip": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Observer\\Program.cs",
+              "RelativeToolTip": "Observer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:42:19.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Singleton.csproj",
+              "DocumentMoniker": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Singleton\\01_Singleton.csproj",
+              "RelativeDocumentMoniker": "Singleton\\01_Singleton.csproj",
+              "ToolTip": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Singleton\\01_Singleton.csproj",
+              "RelativeToolTip": "Singleton\\01_Singleton.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-04T17:53:01.761Z",
+              "WhenOpened": "2024-03-04T18:06:29.786Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs [Entwurf]",
-              "DocumentMoniker": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\DesignPatterns\\Form1.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Form1.cs",
-              "ToolTip": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\DesignPatterns\\Form1.cs [Entwurf]",
-              "RelativeToolTip": "DesignPatterns\\Form1.cs [Entwurf]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T17:23:07.7Z",
-              "EditorCaption": " [Entwurf]"
             }
           ]
         }
