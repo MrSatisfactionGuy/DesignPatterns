@@ -23,21 +23,30 @@ namespace Observer.Classes
 
         public void Register(IObserver obsi)
         {
-            if (obsi != null) registertObsi.Add(obsi);
+            if (obsi != null)
+                //lock
+                registertObsi.Add(obsi);
         }
 
         public void Unregister(IObserver obsi)
         {
-            if (obsi != null) registertObsi.Remove(obsi);
+            if (obsi != null) 
+                //lock
+                registertObsi.Remove(obsi);
         }
 
 
         private void Update()
         {
-            foreach (IObserver o in registertObsi)
-            {
-                o.Update(this.Temperature);
-            }
+            // Iteration evtl. problematisch
+            // Thread blockiert oder blockiert uns - und ruft register / unregistered
+            // => Exception??? 
+
+                foreach (IObserver o in registertObsi)
+                {
+                    o.Update(this.Temperature);
+                }
+            
         }
     }
 }
