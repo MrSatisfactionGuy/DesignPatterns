@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{104BF6C6-3102-4683-8319-EB52031EBCED}|Singleton\\01_Singleton.csproj|c:\\users\\eduard\\desktop\\entwicklung\\designpatterns\\singleton\\01_singleton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{104BF6C6-3102-4683-8319-EB52031EBCED}|Singleton\\01_Singleton.csproj|solutionrelative:singleton\\01_singleton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8CDAD8CA-6C30-4219-B086-FEB71A4DA996}|Observer\\Observer.csproj|c:\\users\\eduard\\desktop\\entwicklung\\designpatterns\\observer\\classes\\temperaturesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDAD8CA-6C30-4219-B086-FEB71A4DA996}|Observer\\Observer.csproj|solutionrelative:observer\\classes\\temperaturesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CDAD8CA-6C30-4219-B086-FEB71A4DA996}|Observer\\Observer.csproj|c:\\users\\eduard\\desktop\\entwicklung\\designpatterns\\observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CDAD8CA-6C30-4219-B086-FEB71A4DA996}|Observer\\Observer.csproj|solutionrelative:observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CDAD8CA-6C30-4219-B086-FEB71A4DA996}|Observer\\Observer.csproj|c:\\users\\eduard\\desktop\\entwicklung\\designpatterns\\observer\\classes\\temperaturesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CDAD8CA-6C30-4219-B086-FEB71A4DA996}|Observer\\Observer.csproj|solutionrelative:observer\\classes\\temperaturesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CDAD8CA-6C30-4219-B086-FEB71A4DA996}|Observer\\Observer.csproj|c:\\users\\eduard\\desktop\\entwicklung\\designpatterns\\observer\\classes\\displayobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IObserver.cs",
               "DocumentMoniker": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Observer\\Interface\\IObserver.cs",
               "RelativeDocumentMoniker": "Observer\\Interface\\IObserver.cs",
@@ -51,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "NotificationObserver.cs",
               "DocumentMoniker": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Observer\\Classes\\NotificationObserver.cs",
               "RelativeDocumentMoniker": "Observer\\Classes\\NotificationObserver.cs",
@@ -64,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "DisplayObserver.cs",
               "DocumentMoniker": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Observer\\Classes\\DisplayObserver.cs",
               "RelativeDocumentMoniker": "Observer\\Classes\\DisplayObserver.cs",
@@ -77,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TemperatureSubject.cs",
               "DocumentMoniker": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Observer\\Classes\\TemperatureSubject.cs",
               "RelativeDocumentMoniker": "Observer\\Classes\\TemperatureSubject.cs",
               "ToolTip": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Observer\\Classes\\TemperatureSubject.cs",
               "RelativeToolTip": "Observer\\Classes\\TemperatureSubject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T19:44:29.128Z",
               "EditorCaption": ""
@@ -96,22 +92,9 @@
               "RelativeDocumentMoniker": "Observer\\Program.cs",
               "ToolTip": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Observer\\Program.cs",
               "RelativeToolTip": "Observer\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T19:42:19.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Singleton.csproj",
-              "DocumentMoniker": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Singleton\\01_Singleton.csproj",
-              "RelativeDocumentMoniker": "Singleton\\01_Singleton.csproj",
-              "ToolTip": "C:\\Users\\Eduard\\Desktop\\Entwicklung\\DesignPatterns\\Singleton\\01_Singleton.csproj",
-              "RelativeToolTip": "Singleton\\01_Singleton.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-04T18:06:29.786Z",
               "EditorCaption": ""
             }
           ]
